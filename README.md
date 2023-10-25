@@ -11,7 +11,7 @@ This is a simple exercise tracking application built using Python and Tkinter. I
 1. Make sure you have Python installed. If not, you can download it from [Python's official website](https://www.python.org/downloads/).
 2. Install the required packages. You can use pip for this: pip install tkinter
 3. Clone the repository or download the code.
-4. Run the application: python exercise.py
+4. Run the application: python exercises.py
 
 ## Usage
 
